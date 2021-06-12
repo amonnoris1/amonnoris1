@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amonnoris1
 - 👀 I’m interested in new tech only and also making new friends
 - 🌱 I’m currently learning  flutter as my pro programming language
-- 💞️ I’m looking to collaborate on some many things that can growmy mind in app and web development
+- 💞️ I’m looking to collaborate on so many new things that can grow my mind in app and web development
 - 📫 How to reach me one can use kakemboamonnoris@gmail.com
 
 <!---
